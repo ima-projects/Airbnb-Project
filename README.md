@@ -1,6 +1,6 @@
 # Airbnb Project
 
-Building a dynamic dashboard using an Airbnb dataset which has been preprocessed and illustrates various visualizations with the help of descriptive statistics.
+Rendering a dynamic dashboard using an Airbnb dataset which has been preprocessed and illustrates various visualizations with the help of descriptive statistics.
 
 ## Table of Contents
 - [Business Problem](#business-problem)
@@ -12,6 +12,7 @@ Building a dynamic dashboard using an Airbnb dataset which has been preprocessed
 - [Preliminary Analysis](#preliminary-analysis)
 - [Types of Graphs](#types-of-graphs)
 - [Quick Analysis of Recommender System Results](#quick-analysis-of-recommender-system-results)
+  * [Tableau Dashboard](#tableau-dashboard)
 
 ## Business Problem
 ### Objective 
@@ -40,4 +41,6 @@ Here, a data visualization and descriptive statistical techniques can help to id
 - Bar charts: used to compare different categories of data.
 - Geographic maps: used to display data spatially on a map.
 
-## 
+## Quick Analysis of Recommender System Results
+### Tableau dashboard
+![Data dashboard](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVhZTA1ODJmMzUyMjY5NDRhNTA1YThhMGFlYWM5ZjIwOGZlYjQzZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/6cSXuZJHsZWqw1i0mw/giphy.gif)
