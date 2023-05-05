@@ -24,7 +24,7 @@ Rendering a dynamic dashboard using an Airbnb dataset which has been preprocesse
 Stakeholders who would be interested in understanding the performance of Airbnb listings in different areas in 2016 could include Airbnb executives, investors, property owners, and potential guests looking to book accommodations on the platform. The visualization could help executives and investors make strategic decisions regarding future investments in certain regions, while property owners could gain insights into how to better market their listings to attract more guests in the current macro-economic climate in 2023.
 
 ## Data Source
-- [Kaggle data source containing Airbnb Listings 2016 dataset](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset)
+- [Kaggle data source containing Seattle Airbnb Listings 2016 dataset](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset)
 
 ## Tableau Viz link
 - [Link to dynamic tableau visualization dashboard](https://public.tableau.com/app/profile/ibtisam.ali5648/viz/AirbnbFullProject_16818740000570/Dashboard1)
@@ -51,4 +51,8 @@ Here, a data visualization and descriptive statistical techniques can help to id
 ![Data dashboard](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVhZTA1ODJmMzUyMjY5NDRhNTA1YThhMGFlYWM5ZjIwOGZlYjQzZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/6cSXuZJHsZWqw1i0mw/giphy.gif)
 
 ### Key findings
-- 
+- The highest daily average price for an Airbnb booking is located within the 98134 zipcode of Seattle
+  - This provides a strong indication to suggest that this an area that may have higher demand for Airbnb bookings, potentially due to factors such as proximity to popular tourist attractions, business districts, or other local amenities. 
+  - Further investigation and analysis could help to identify the specific reasons for the higher demand, and potentially uncover opportunities for businesses in the area to capitalize on this trend. 
+- Additionally, understanding the reasons behind the lower demand in other areas could provide valuable insights and opportunities for improvement in those locations. 
+- Overall, these findings can be leveraged to inform strategic business decisions and drive growth in the Airbnb market in Seattle.
