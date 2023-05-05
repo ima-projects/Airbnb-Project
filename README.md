@@ -7,12 +7,14 @@ Rendering a dynamic dashboard using an Airbnb dataset which has been preprocesse
   * [Objective](#objective)
   * [Goal](#goal)
 - [Data Source](#data-source)
+- [Tableau Viz link](#tableau-viz-link)
 - [Methods](#methods)
 - [Tech Stack](#tech-stack)
 - [Preliminary Analysis](#preliminary-analysis)
 - [Types of Graphs](#types-of-graphs)
 - [Quick Analysis of Recommender System Results](#quick-analysis-of-recommender-system-results)
   * [Tableau Dashboard](#tableau-dashboard)
+  * [Key findings](#key-findings)
 
 ## Business Problem
 ### Objective 
@@ -23,6 +25,9 @@ Stakeholders who would be interested in understanding the performance of Airbnb 
 
 ## Data Source
 - [Kaggle data source containing Airbnb Listings 2016 dataset](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset)
+
+## Tableau Viz link
+- [Link to dynamic tableau visualization dashboard](https://public.tableau.com/app/profile/ibtisam.ali5648/viz/AirbnbFullProject_16818740000570/Dashboard1)
 
 ## Methods
 - Data visualization
@@ -44,3 +49,6 @@ Here, a data visualization and descriptive statistical techniques can help to id
 ## Quick Analysis of Recommender System Results
 ### Tableau dashboard
 ![Data dashboard](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVhZTA1ODJmMzUyMjY5NDRhNTA1YThhMGFlYWM5ZjIwOGZlYjQzZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/6cSXuZJHsZWqw1i0mw/giphy.gif)
+
+### Key findings
+- 
