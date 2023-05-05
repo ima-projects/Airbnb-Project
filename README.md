@@ -15,6 +15,7 @@ Rendering a dynamic dashboard using an Airbnb dataset which has been preprocesse
 - [Quick Analysis of Recommender System Results](#quick-analysis-of-recommender-system-results)
   * [Tableau Dashboard](#tableau-dashboard)
   * [Key findings](#key-findings)
+  * [Limitations and Suggestions for Optimization of the Dashboard](#limitations-and-suggestions-for-optimization-of-the-dashboard)
 
 ## Business Problem
 ### Objective 
@@ -56,3 +57,8 @@ Here, a data visualization and descriptive statistical techniques can help to id
   - Further investigation and analysis could help to identify the specific reasons for the higher demand, and potentially uncover opportunities for businesses in the area to capitalize on this trend. 
 - Additionally, understanding the reasons behind the lower demand in other areas could provide valuable insights and opportunities for improvement in those locations. 
 - Overall, these findings can be leveraged to inform strategic business decisions and drive growth in the Airbnb market in Seattle.
+
+### Limitations and Suggestions for Optimization of the Dashboard
+- To optimize the dashboard further, it's suggested to incorporate more historical data, including seasonal trends and external events that may have influenced prices in specific areas. Additionally, adding user feedback and reviews to the dashboard can help users make more informed decisions based on previous experiences of other customers.
+- Gathering more historical data, both distant and recent, can provide a more clear understanding of how the patterns have changed over the years.
+
