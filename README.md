@@ -38,7 +38,7 @@ Stakeholders who would be interested in understanding the performance of Airbnb 
 - Tableau
 
 ## Preliminary Analysis
-The technique used here will compose of a data visualization and descriptive statistics, in place of an exploratory data analysis. The selection of these techniques are predicated upon the assumption that the data has already been preprocessed and normalized. This thereby eliminates the need to conduct a more thorough analysis. However, where this need does arise, more in-depth technique will be performed that is conducive to the business goals, or financial objectives of the company. 
+The technique used here will compose of a data visualization and descriptive statistics, in place of an exploratory data analysis. The selection of these techniques are predicated upon the assumption that the data has already been preprocessed and normalized. This thereby eliminates the need to conduct a more thorough analysis. However, where this need does arise, a more in-depth technique and granular analysis will be performed that is conducive to the business goals, or financial objectives of the company. 
 
 Here, a data visualization and descriptive statistical techniques can help to identify patterns and trends in the data, as well as any potential outliers or anomalies that may need further investigation.
 
