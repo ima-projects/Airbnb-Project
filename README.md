@@ -12,7 +12,7 @@ Rendering a dynamic dashboard using an Airbnb dataset which has been preprocesse
 - [Tech Stack](#tech-stack)
 - [Preliminary Analysis](#preliminary-analysis)
 - [Types of Graphs](#types-of-graphs)
-- [Quick Analysis of Recommender System Results](#quick-analysis-of-recommender-system-results)
+- [Quick Analysis of Results](#quick-analysis-of-results)
   * [Tableau Dashboard](#tableau-dashboard)
   * [Key findings](#key-findings)
   * [Limitations and Suggestions for Optimization of the Dashboard](#limitations-and-suggestions-for-optimization-of-the-dashboard)
@@ -47,7 +47,7 @@ Here, a data visualization and descriptive statistical techniques can help to id
 - Bar charts: used to compare different categories of data.
 - Geographic maps: used to display data spatially on a map.
 
-## Quick Analysis of Recommender System Results
+## Quick Analysis of Results
 ### Tableau dashboard
 ![Data dashboard](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVhZTA1ODJmMzUyMjY5NDRhNTA1YThhMGFlYWM5ZjIwOGZlYjQzZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/6cSXuZJHsZWqw1i0mw/giphy.gif)
 
