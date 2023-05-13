@@ -28,7 +28,7 @@ Stakeholders who would be interested in understanding the performance of Airbnb 
 - [Kaggle data source containing Seattle Airbnb Listings 2016 dataset](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset)
 
 ## Tableau Viz link
-- [Link to dynamic tableau visualization dashboard](https://public.tableau.com/app/profile/ibtisam.ali5648/viz/AirbnbFullProject_16818740000570/Dashboard1)
+- [Link to my dynamic Tableau visualization dashboard](https://public.tableau.com/app/profile/ibtisam.ali5648/viz/AirbnbFullProject_16818740000570/Dashboard1)
 
 ## Methods
 - Data visualization
@@ -61,4 +61,3 @@ Here, a data visualization and descriptive statistical techniques can help to id
 ### Limitations and Suggestions for Optimization of the Dashboard
 - To optimize the dashboard further, it's suggested to incorporate more historical data, including seasonal trends and external events that may have influenced prices in specific areas. Additionally, adding user feedback and reviews to the dashboard can help users make more informed decisions based on previous experiences of other customers.
 - Gathering more historical data, both distant and recent, can provide a more clear understanding of how the patterns have changed over the years.
-
