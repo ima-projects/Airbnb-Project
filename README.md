@@ -1,6 +1,6 @@
 # Airbnb Project
 
-Rendering a dynamic dashboard using an Airbnb dataset which has been preprocessed and illustrates various visualizations with the help of descriptive statistics.
+Rendering a dynamic Tableau dashboard using an Airbnb dataset which has been preprocessed and illustrates various visualizations with the help of descriptive statistics.
 
 ## Table of Contents
 - [Business Problem](#business-problem)
@@ -19,7 +19,7 @@ Rendering a dynamic dashboard using an Airbnb dataset which has been preprocesse
 
 ## Business Problem
 ### Objective 
-2016 was a very informative year for Airbnb stakholders. The business problem is to analyze the historical data of Airbnb listings in the year 2016 and create a comprehensive visualization that will enable stakeholders to understand why some areas were overperforming while others were underperforming. The visualization will help in identifying the underlying factors that contributed to the success or failure of Airbnb listings in different areas and help stakeholders make informed decisions about the future investments in the platform.
+2016 was a very informative year for Airbnb stakeholders. The business problem is to analyze the historical data of Airbnb listings in the year 2016 and create a comprehensive visualization that will enable stakeholders to understand why some areas were overperforming while others were underperforming. The visualization will help in identifying the underlying factors that contributed to the success or failure of Airbnb listings in different areas and help stakeholders make informed decisions about the future investments in the platform.
 
 ### Goal
 Stakeholders who would be interested in understanding the performance of Airbnb listings in different areas in 2016 could include Airbnb executives, investors, property owners, and potential guests looking to book accommodations on the platform. The visualization could help executives and investors make strategic decisions regarding future investments in certain regions, while property owners could gain insights into how to better market their listings to attract more guests in the current macro-economic climate in 2023.
